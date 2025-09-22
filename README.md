@@ -11,7 +11,14 @@
 - 🔭 Currently learning **deep learning models** and their applications in computer vision and NLP.  
 - 📚 Interested in **research projects**, especially those related to **healthcare and AI**.  
 - 🌱 Exploring **AI-powered health applications** and predictive modeling.  
-- ✍️ Goal: Publish impactful **research papers** and contribute to real-world projects.  
+- ✍️ Goal: Publish impactful **research papers** and contribute to real-world projects.
+- **Fun fact:** I’m a huge fan of **Warhammer 40k** and love the lore and strategy behind it.
+
+---
+
+## 📜 Favorite Quote
+*"Knowledge is power, and power demands understanding."*  
+— **Magos Dominus Faustinius, Warhammer 40,000: Mechanicus**
 
 ---
 
