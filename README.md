@@ -12,7 +12,7 @@
 - 📚 Interested in **research projects**, especially those related to **healthcare and AI**.  
 - 🌱 Exploring **AI-powered health applications** and predictive modeling.  
 - ✍️ Goal: Publish impactful **research papers** and contribute to real-world projects.
-- **Fun fact:** I’m a huge fan of **Warhammer 40k** and love the lore and strategy behind it.
+- ⚡ **Fun fact:** I’m a huge fan of **Warhammer 40k** and love the lore and strategy behind it.
 
 ---
 
