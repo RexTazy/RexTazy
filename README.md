@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fikri Aziz Biruni</h1>
 <h3 align="center">A curious Data Science student from Indonesia who loves machine learning, deep learning, and AI. Outside academics, I enjoy playing games, which inspires my curiosity about technology, interaction, and data-driven design. I am also passionate about research and aspire to publish papers that contribute to the fields of data science and artificial intelligence. 
   
+
 In the future, I hope to contribute to the health sector by applying data-driven approaches to improve healthcare systems, medical research, and public well-being. Whether through predictive modeling, computer vision for medical imaging, or AI-powered health applications, I want my work to support innovations that positively impact people’s lives.</h3>
 
 <h3 align="left">Connect with me:</h3>
